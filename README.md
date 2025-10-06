@@ -1,6 +1,8 @@
 A História dos Computadores
 Do Zero à Era da Inteligência Artificial
-Narrado por REPAIRMASTER, o Técnico do Tempo Digital ■■■
+
+Narrado por REPAIRMASTER, o Técnico do Tempo Digital 
+
 INÍCIO – O REBOOT DA HISTÓRIA
 “Olá, eu sou o REPAIRMASTER — e hoje, vamos fazer uma viagem no tempo.
 Mas não qualquer viagem. Vamos abrir o gabinete da história, desmontar cada
@@ -15,6 +17,7 @@ somar, e Charles Babbage, o engenheiro do impossível, idealizou a máquina
 analítica — um sonho mecânico que plantou a semente do que viria a ser o
 computador moderno. Ao lado dele, uma mente brilhante: Ada Lovelace, a
 primeira programadora da história.
+
 MEIO – A REVOLUÇÃO DIGITAL
 “O transistor nasceu em 1947, e com ele veio o primeiro grande salto da
 computação.”
@@ -27,6 +30,7 @@ notebooks e tablets mudaram o mundo.
 Mas o circuito ainda não estava completo. As máquinas estavam prontas, os
 dados acumulados... faltava apenas uma coisa: ensinar os computadores a
 pensar.
+
 FIM – A ERA DA INTELIGÊNCIA ARTIFICIAL
 “Chegamos ao agora. E o agora... pensa.”
 Depois de décadas de evolução, os computadores deixaram de ser simples
